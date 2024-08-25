@@ -1,0 +1,6 @@
+com.chat.app
+com.chat.app.execution.v1
+com.chat.app.execution.v2
+com.chat.app.messaging
+com.chat.app.messaging.impl
+com.chat.app.utils

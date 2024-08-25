@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/shaik/IdeaProjects/ChatApplication/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ChatApplication 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ChatApplication 1.0-SNAPSHOT API'
+com.chat.app.utils
+com.chat.app
+com.chat.app.execution.v1
+com.chat.app.execution.v2
+com.chat.app.messaging.impl
+com.chat.app.messaging
+/Users/shaik/IdeaProjects/ChatApplication/src/main/java = 1724428807739
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/constant-values.html = 1724581741531
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/tag-search-index.js = 1724581741560
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/overview-tree.html = 1724581741549
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/module-search-index.js = 1724581741559
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/index.html = 1724581741551
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/package-search-index.js = 1724581741559
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/jquery-ui.overrides.css = 1724581741575
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/index-all.html = 1724581741567
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/allpackages-index.html = 1724581741559
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/member-search-index.js = 1724581741560
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/script.js = 1724581741572
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/stylesheet.css = 1724581741571
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/overview-summary.html = 1724581741568
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/help-doc.html = 1724581741570
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/element-list = 1724581741510
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/allclasses-index.html = 1724581741558
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/type-search-index.js = 1724581741560
+/Users/shaik/IdeaProjects/ChatApplication/target/site/apidocs/search.js = 1724581741572
